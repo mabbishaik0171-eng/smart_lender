@@ -138,8 +138,8 @@ Open: `http://127.0.0.1:5000/`
 - Traditional Flask form-based interface as fallback
 
 ## Developed By
-Shaik Mahaboob Bee
-Adimulapu Anil Kumar
-Tanuja Gaddam
-Hasini Ambati
-Medaboini Pavani
+- Adimulapu Anil Kumar
+- Tanuja Gaddam
+- Hasini Ambati
+- Medaboini Pavani
+- Shaik Mahaboob bee
